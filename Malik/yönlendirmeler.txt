@@ -1,0 +1,4 @@
+Metahuman animasyonlarının çalışması için;
+Content\MetaHumans\c_gorki\Male\Medium\NormalWeight\Body deki m_med_nrw_body nin skeletonu SK_Manequinn e çevirilecek
+
+ayakların animasyonunun çalışması için ABP_Manny nin AnimGraph daki control rig içine gir step5 teki root bone'u animation_root yap
